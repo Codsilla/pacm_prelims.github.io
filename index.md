@@ -6,6 +6,6 @@ The preliminary exam is a first-year evaluation for students in the Program in A
 
 | Student | Subjects | Examiners |
 | -------- | ------- | ------------------ |
-| [Test Student 1](students/student%20test.md)  | Subject 1,Subject 2 , Subject 3  | Prof 1, Prof 2, Prof 3 |
-| [Test student 2](students/test.pdf)  | Subject 1,Subject 2 , Subject 3  |Prof 1, Prof 2, Prof 3 |
-| [Test student 3](testmd.md)  | Subject 1,Subject 2 , Subject 3  |Prof 1, Prof 2, Prof 3 |
+| [Julien Codsi](Julien%20Codsi.md)  | Algorithms , Graph Minor , Probabilistic Method  | Huacheng Yu, Paul Seymour, Noga Alon |
+| [Test student 1](students/test.pdf)  | Subject 1,Subject 2 , Subject 3  |Prof 1, Prof 2, Prof 3 |
+| [Test student 2](testmd.md)  | Subject 1,Subject 2 , Subject 3  |Prof 1, Prof 2, Prof 3 |
