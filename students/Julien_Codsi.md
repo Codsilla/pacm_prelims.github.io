@@ -23,7 +23,7 @@ I was very direct and told them that this was not in the material that Paul and 
 ## Probabilistic Method
 
 ### Question 1 ($\approx$ 10 min)
-[Noga] Which version of the theorem do you want to (symmetric or asymmetric)?
+[Noga] Which version of the theorem do you want to prove (symmetric or asymmetric)?
 
 [me] Well the symmetric one is just a corollary of the general version so there is not much to prove other than choosing the right weights.
 
@@ -31,7 +31,7 @@ I was very direct and told them that this was not in the material that Paul and 
 
 [me] In that case, I will prove the general one as it contains all the main ideas of why it's true
 
-I then when one to prove the general version. I practiced this proof so many times that I mechanically proved it without much issue other than forgetting to define some variables which Noga and Paul immediately pointed out. Halfway through the proof Noga stopped me and said "Clearly, you know the proof, no need to go further".
+I then went on to prove the general version. I practiced this proof so many times that I mechanically proved it without much issue other than forgetting to define some variables which Noga and Paul immediately pointed out. Halfway through the proof Noga stopped me and said "Clearly, you know the proof, no need to go further".
 
 ### Question 2 ($\approx$ 5 min)
 This was a somewhat simple application of LLL and we went through it rather quickly.
@@ -50,7 +50,7 @@ We all joked about the fact that I kept saying random variable instead of just v
 
 ### Question 2 ($\approx$ 5 min)
 
-We then went to the second question. Here I explained how we can do the same process as before as long as no two vertices with min weight were connected. This can only happen if the minimum weight is $0.5$. Moreover, if the min weight is $0.5$, there is no reason to have any weight in $(0.5,1)$ as you could always lower that weight to $0.5$ which contradicts the optimality of the LP solution. 
+We then went to the second question. Here, I explained how we can do the same process as before as long as no two vertices with min weight were connected. This can only happen if the minimum weight is $0.5$. Moreover, if the min weight is $0.5$, there is no reason to have any weight in $(0.5,1)$ as you could always lower that weight to $0.5$ which contradicts the optimality of the LP solution. 
 
 ### Question 3 ($\approx$ 10 min)
 
