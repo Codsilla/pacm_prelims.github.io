@@ -22,7 +22,7 @@ I was very direct and told them that this was not in the material that Paul and 
 
 ## Probabilistic Method
 
-### Question 1 ($\approx$ 10 min)
+### Question 1 (\(\approx\) 10 min)
 [Noga] Which version of the theorem do you want to prove (symmetric or asymmetric)?
 
 [me] Well the symmetric one is just a corollary of the general version so there is not much to prove other than choosing the right weights.
