@@ -9,7 +9,7 @@ I was comfortable with all but one of the graph minors questions so I didn't spe
 # The exam
 ## Graph Minors
 
-**Q1.** Discuss some theorems of the form "If $|E(G)| > f(|V(G)|)$, then $G$ contains some minor". Prove that if $|E(G)| > 2^k |V(G)|$, then $G$ contains $K_k$ as a minor. 
+**Q1.** Discuss some theorems of the form "If $\vert E(G)\vert  > f(\vert V(G)\vert )$, then $G$ contains some minor". Prove that if $\vert E(G)\vert  > 2^k \vert V(G)\vert $, then $G$ contains $K_k$ as a minor. 
 
 I mentioned Euler's formula implying a $K_{3,3}$ minor or $K_5$ minor. Noga then asked for a theorem implying a single minor, so I said that n edges trivially implies a triangle minor. I then sketched the proof of the $K_k$ minor question.
 
@@ -38,7 +38,7 @@ Noga then asked an optional question not given during prep time: prove that $G(n
 ## Algorithms
 
 **Q1.** Write down an LP for min vertex cover. If G is bipartite, prove that we can round to an integral solution with the same cost. \
-**Q2.** For general graphs, prove that we can round to a half-integral solution with the same cost (all vertex weights in $\{0,1/2,1\}$).\
+**Q2.** For general graphs, prove that we can round to a half-integral solution with the same cost (all vertex weights in $\\{0,1/2,1\\}$).\
 **Q3.** Given $k \leq n$, design a polynomial time algorithm that outputs a graph $H$ on at most $2k$ vertices such that $G$ has a vertex cover of size $k$ iff $H$ does. 
 
 I really struggled with algorithms. During prep time I thought I had a solution to the first couple of problems but realized my approach was very wrong when I started writing it out on the board. I then got super flustered and it took me a LOT of hints to get Q1 and Q2, and we ran out of time before getting into Q3 properly. 
