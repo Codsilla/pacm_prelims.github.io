@@ -1,6 +1,14 @@
 # Preliminary Exam Repository
 
-The preliminary exam is a first-year evaluation for students in the Program in Applied & Computational Mathematics (PACM) at Princeton University. This repository of past exam questions and transcripts is designed to be a helpful resource for new students. This webpage is an analog of this [similiar initiative](https://web.math.princeton.edu/generals/) from students in pure maths.
+The preliminary exam is a first-year evaluation for students in the Program in Applied & Computational Mathematics (PACM) at Princeton University. This repository of past exam questions and transcripts is designed to be a helpful resource for new students. This webpage is an analog of this [similar initiative](https://web.math.princeton.edu/generals/) from students in pure maths.
+
+## 2025
+
+| Student | Subjects | Examiners |
+| -------- | ------- | ------------------ |
+| [Lou Wang](students/Lou_Wang.pdf)  | Mathematical Physics, Differential Geometry, Functional Analysis  |Michael Aizenman, Mihalis Dafermos, Jacob Shapiro |
+
+
 
 ## 2024
 
