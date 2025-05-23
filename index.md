@@ -6,6 +6,8 @@ The preliminary exam is a first-year evaluation for students in the Program in A
 
 | Student | Subjects | Examiners |
 | -------- | ------- | ------------------ |
+| [Alex Negron](students/Alex_Negron.pdf)| Probability theory, Partial differential equations, Statistical mechanics and spin glasses| Boris Hanin, Peter Constantin, Michael Aizenman|
+| [Danny Espejo](students/Danny_Espejo.pdf)  | Harmonic Analysis, Ergodic Theory, Functional Analysis  |Charles Fefferman, Peter Sarnak, Jacob Shapiro |
 | [Lou Wang](students/Lou_Wang.pdf)  | Mathematical Physics, Differential Geometry, Functional Analysis  |Michael Aizenman, Mihalis Dafermos, Jacob Shapiro |
 
 
